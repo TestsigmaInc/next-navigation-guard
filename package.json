@@ -1,6 +1,6 @@
 {
   "name": "@testsigmainc/next-navigation-guard",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Navigation Guard for Next.js App Router and Pages Router.",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
